@@ -1,6 +1,6 @@
 {
   "name": "thunky-with-args",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Delay the evaluation of a variadic async function and cache the result",
   "license": "MIT",
   "author": "Vincent Weevers",
