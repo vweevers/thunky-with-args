@@ -8,7 +8,7 @@ Like [thunky](https://github.com/mafintosh/thunky) but:
 [![node](https://img.shields.io/node/v/thunky-with-args.svg?style=flat-square)](https://www.npmjs.org/package/thunky-with-args)
 [![Travis build status](https://img.shields.io/travis/vweevers/thunky-with-args.svg?style=flat-square&label=travis)](http://travis-ci.org/vweevers/thunky-with-args)
 [![Dependency status](https://img.shields.io/david/vweevers/thunky-with-args.svg?style=flat-square)](https://david-dm.org/vweevers/thunky-with-args)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/vweevers/thunky-with-args.svg)](https://greenkeeper.io/)
 
 ## example
 
