@@ -14,7 +14,7 @@
   "devDependencies": {
     "run-parallel": "^1.1.9",
     "standard": "^14.0.0",
-    "tape": "^4.10.1"
+    "tape": "^5.0.1"
   },
   "keywords": [
     "async",
